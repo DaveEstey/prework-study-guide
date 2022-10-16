@@ -10,7 +10,7 @@ N/A
 
 ## Usage
 
-You can use it by navigating the information to find what you need to learn more about; Additionally, you can inspect and open the console (right click, then inspect) to give you a random choice as to what you should study!
+You can use it by navigating the information to find what you need to learn more about; Additionally, you can inspect and open the console (right click, then inspect) to give you a random choice as to what you should study.
 
 ## Credits
 
