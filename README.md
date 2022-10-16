@@ -2,9 +2,7 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
-- For students interested at getting better at coding for once the class begins. It provides study notes for preparing for the course including implementing CSS and JavaScript into an HTML file. All while using Git.
+For students interested at getting better at coding for once the class begins. It provides study notes for preparing for the course including implementing CSS and JavaScript into an HTML file. All while using Git.
 
 ## Installation
 
